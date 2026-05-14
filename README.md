@@ -17,7 +17,7 @@ Instructions in the Unity editor:
 1. Add the project in Unity Hub and open it.
 2. In the bottom left, under the "Project" tab, navigate to the "Assets" folder.
 3. Create a new folder called "Editor". This must be named exactly editor for unity to recognize it.
-4. In the "Editor" folder, drag and drop BuildBundles, RelinkLocalization, and your LogOutput.log files from your file system.
+4. In the "Editor" folder, drag and drop BuildBundles, RelinkLocalization, and your LogOutput.log (from LocalizationLogger.dll) files from your file system.
 5. You should now have "Build" and "Tools" tabs at the top of your editor. These will be explained later, as long as there are there you can procceed.
 6. In the "Assets/Scenes/Holes" folder, create a new folder called "Custom Holes".
 7. Copy and paste a level of your choosing into the custom holes folder and rename it.
