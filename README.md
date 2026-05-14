@@ -1,8 +1,8 @@
 This is a get started kit for making maps for Super Battle Golf.
 
-Prerequisites: 
-Unity editor version 6000.3.10f1 (ONLY this will work, has to be same as SBG).
-The exported Unity project using Asset Ripper, free version works fine.
+Prerequisites:  
+Unity editor version 6000.3.10f1 (ONLY this will work, has to be same as SBG).  
+The exported Unity project using Asset Ripper, free version works fine.  
 The custom map mod downloaded.
 
 Instructions for LocalizationLogger.dll:
