@@ -4,7 +4,7 @@ Prerequisites:
 Unity editor version 6000.3.10f1 (ONLY this will work, has to be same as SBG).  
 The exported Unity project using Asset Ripper, free version works fine.  
 The [custom map mod](https://github.com/MasterBuilderMAC/SBG_CustomMaps/releases/tag/Release) downloaded.  
-The BuildBundles, RelinkLocalization, and localizationLogger.dll (in releases) downloaded.
+The BuildBundles, RelinkLocalization (in sources), and localizationLogger.dll (in releases) downloaded.
 
 Instructions for LocalizationLogger.dll:
 1. Place the dll into the BepInEx plugins folder.
