@@ -40,6 +40,7 @@ Instructions to build your custom hole:
 5. To create the bundle, under the build tab at the top, select "Build AssetBundles". This may take serveral minutes.
 6. Navigate to your project in your file system, and go to the "Assets/Bundles" folder. The file named "{username}.{packname}" is the only one that you need.
 7. Copy that file into the "BepInEx/plugins/SBGMaps/Maps" folder where your game is installed.
+8. Create a copy of the template json file and name it the same as the bundle, "{username}.{packname}.JSON". Fill out the information for your hole(s) and make sure the number of holes matches how many are in the bundle.
 
 
 Disclaimer: Pretty much all of these 3 files were created using generative AI. 
